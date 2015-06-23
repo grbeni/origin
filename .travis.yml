@@ -1,5 +1,5 @@
 language: c
 script:
-	- make all run
+  - make all run
 
 
